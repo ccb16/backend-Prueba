@@ -10,7 +10,7 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:8080',
+                url: 'https://backend-prueba-ydgj.onrender.com',
             },],
 
         components: {
